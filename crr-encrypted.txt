@@ -1,0 +1,1 @@
+Sample file to test replication of an encrypted file using Cross-Region Replication.
