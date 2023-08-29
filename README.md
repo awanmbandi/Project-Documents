@@ -1,1 +1,1 @@
-# JJTech-Realworld-Projects
+# JJTech Project Materials
